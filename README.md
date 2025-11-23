@@ -13,6 +13,29 @@ The PyQuant Newsletter gives you applied quant finance in a compact format desig
 - **Time-efficient**: Designed so readers can extract value in ~5 minutes.  
 - **Trusted by practitioners**: Read by tens of thousands of quants, traders, engineers, and analysts.
 
+### Alpha Lab Membership
+
+An [Alpha Lab membership](https://pyquantnews.substack.com/subscribe) is for members who want access to backtested strategies and higher-touch interaction.
+
+#### Backtested Strategies  
+Every month Alpha Lab members receive a full research deep dive, including:
+- Python code for signal construction  
+- Backtests and performance analysis  
+- Interpretation of edge, risk, and failure modes  
+- A reproducible research notebook
+
+Upcoming strategies include:
+- **Reversion Strength** — identifies exhaustion points where price is likely to revert  
+- **Trend Persistence** — rewards assets with sustained directional strength  
+- **Stability Premium** — prioritizes assets with persistent, lower-volatility behavior  
+
+#### Start New Chat Threads  
+Alpha Lab members can initiate new discussion threads inside the private chat environment, enabling:
+- Direct Q&A  
+- Strategy-specific help  
+- Environment setup guidance  
+- More detailed and open-ended discussions  
+
 ## Membership Benefits
 
 You can support PyQuant News and get deeper support, updated code, and access to private discussions through a [paid membership](https://pyquantnews.substack.com/subscribe).
@@ -40,33 +63,6 @@ Paid members get:
 - Direct interaction  
 - Thoughtful replies  
 - Deeper discussions around implementation and research decisions  
-
----
-
-### Alpha Lab Membership
-
-An [Alpha Lab membership](https://pyquantnews.substack.com/subscribe) is for members who want access to backtested strategies and higher-touch interaction.
-
-#### Backtested Strategies  
-Every month Alpha Lab members receive a full research deep dive, including:
-- Python code for signal construction  
-- Backtests and performance analysis  
-- Interpretation of edge, risk, and failure modes  
-- A reproducible research notebook
-
-Upcoming strategies include:
-- **Reversion Strength** — identifies exhaustion points where price is likely to revert  
-- **Trend Persistence** — rewards assets with sustained directional strength  
-- **Stability Premium** — prioritizes assets with persistent, lower-volatility behavior  
-
-#### Start New Chat Threads  
-Alpha Lab members can initiate new discussion threads inside the private chat environment, enabling:
-- Direct Q&A  
-- Strategy-specific help  
-- Environment setup guidance  
-- More detailed and open-ended discussions  
-
----
 
 ## Who this is for  
 The newsletter and membership benefits serve:
