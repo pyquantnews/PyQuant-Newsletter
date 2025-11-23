@@ -4,7 +4,8 @@ _Join traders, quants, and complete beginners using Python for algorithmic tradi
 ## Overview  
 This repository contains the code for the **PyQuant Newsletter**. Each issue focuses on practical, implementation-ready Python techniques for quantitative finance, algorithmic trading, factor research, portfolio construction, and data engineering. You can [subscribe to the PyQuant Newsletter on Substack free](https://pyquantnews.substack.com/subscribe).
 
-## Why subscribe  
+## Why subscribe to the free PyQuant Newsletter
+
 The PyQuant Newsletter gives you applied quant finance in a compact format designed for working professionals:
 
 - **Hands-on code**: Each issue includes runnable Python examples for immediate use.  
@@ -13,7 +14,7 @@ The PyQuant Newsletter gives you applied quant finance in a compact format desig
 - **Time-efficient**: Designed so readers can extract value in ~5 minutes.  
 - **Trusted by practitioners**: Read by tens of thousands of quants, traders, engineers, and analysts.
 
-### Alpha Lab Membership
+## Alpha Lab Membership
 
 An [Alpha Lab membership](https://pyquantnews.substack.com/subscribe) is for members who want access to backtested strategies and higher-touch interaction.
 
@@ -24,7 +25,7 @@ Every month Alpha Lab members receive a full research deep dive, including:
 - Interpretation of edge, risk, and failure modes  
 - A reproducible research notebook
 
-Upcoming strategies include:
+#### Upcoming strategies include:
 - **Reversion Strength** — identifies exhaustion points where price is likely to revert  
 - **Trend Persistence** — rewards assets with sustained directional strength  
 - **Stability Premium** — prioritizes assets with persistent, lower-volatility behavior  
@@ -36,9 +37,9 @@ Alpha Lab members can initiate new discussion threads inside the private chat en
 - Environment setup guidance  
 - More detailed and open-ended discussions  
 
-## Membership Benefits
+## Paid Membership Benefits
 
-You can support PyQuant News and get deeper support, updated code, and access to private discussions through a [paid membership](https://pyquantnews.substack.com/subscribe).
+You can support also PyQuant News and get deeper support, updated code, and access to private discussions through a [paid membership](https://pyquantnews.substack.com/subscribe).
 
 #### Private Code Support  
 Access to the **Substack Chat**, a private channel where members can get personalized help with:
