@@ -1,0 +1,9 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac stuff
+.DS_Store
+.virtual_documents
+
+# Python
+matplotlibrc
