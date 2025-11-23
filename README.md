@@ -1,10 +1,8 @@
-# PyQuant Newsletter  
-_A weekly brief for Python-powered quant finance_
+# Code for the PyQuant Newsletter
+_Join traders, quants, and complete beginners using Python for algorithmic trading, market data analysis, and quant finance._
 
 ## Overview  
-This repository contains the reference materials, examples, and supporting code for the **PyQuant Newsletter** and its Substack publications. Each issue focuses on practical, implementation-ready Python techniques for quantitative finance, algorithmic trading, factor research, portfolio construction, and data engineering.
-
-Subscribe on Substack: https://substack.com/@pyquantnews  
+This repository contains the code for the **PyQuant Newsletter**. Each issue focuses on practical, implementation-ready Python techniques for quantitative finance, algorithmic trading, factor research, portfolio construction, and data engineering. You can [subscribe to the PyQuant Newsletter on Substack free](https://pyquantnews.substack.com/subscribe).
 
 ## Why subscribe  
 The PyQuant Newsletter gives you applied quant finance in a compact format designed for working professionals:
@@ -17,10 +15,7 @@ The PyQuant Newsletter gives you applied quant finance in a compact format desig
 
 ## Membership Benefits
 
-Join us: https://pyquantnews.substack.com/subscribe
-
-### Paid Membership  
-Paid members receive deeper support, updated code, and access to private discussions.
+You can support PyQuant News and get deeper support, updated code, and access to private discussions through a [paid membership](https://pyquantnews.substack.com/subscribe).
 
 #### Private Code Support  
 Access to the **Substack Chat**, a private channel where members can get personalized help with:
@@ -48,8 +43,9 @@ Paid members get:
 
 ---
 
-### Alpha Lab Membership  
-Alpha Lab is the research-driven tier for members who want access to backtested strategies and higher-touch interaction.
+### Alpha Lab Membership
+
+An [Alpha Lab membership](https://pyquantnews.substack.com/subscribe) is for members who want access to backtested strategies and higher-touch interaction.
 
 #### Backtested Strategies  
 Every month Alpha Lab members receive a full research deep dive, including:
@@ -80,6 +76,4 @@ The newsletter and membership benefits serve:
 - Python programmers learning quant techniques  
 - Researchers exploring factor models and trading strategies
 
-If you find this material useful, consider subscribing to receive future issues and member-only benefits:
-
-**Subscribe:** https://substack.com/@pyquantnews  
+If you find this code useful, consider subscribing to receive future issues and member-only benefits.
